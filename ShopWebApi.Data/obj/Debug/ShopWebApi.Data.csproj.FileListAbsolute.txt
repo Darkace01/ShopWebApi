@@ -1,0 +1,15 @@
+C:\Users\Latitude\source\repos\ShopWebApi.Data\obj\Debug\ShopWebApi.Data.csprojAssemblyReference.cache
+C:\Users\Latitude\source\repos\ShopWebApi.Data\obj\Debug\ShopWebApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\source\repos\ShopWebApi.Data\bin\Debug\ShopWebApi.Data.dll.config
+C:\Users\Latitude\source\repos\ShopWebApi.Data\bin\Debug\ShopWebApi.Data.dll
+C:\Users\Latitude\source\repos\ShopWebApi.Data\bin\Debug\ShopWebApi.Data.pdb
+C:\Users\Latitude\source\repos\ShopWebApi.Data\bin\Debug\EntityFramework.dll
+C:\Users\Latitude\source\repos\ShopWebApi.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Latitude\source\repos\ShopWebApi.Data\bin\Debug\ShopWebApi.Core.dll
+C:\Users\Latitude\source\repos\ShopWebApi.Data\bin\Debug\ShopWebApi.Core.pdb
+C:\Users\Latitude\source\repos\ShopWebApi.Data\bin\Debug\ShopWebApi.Core.dll.config
+C:\Users\Latitude\source\repos\ShopWebApi.Data\bin\Debug\EntityFramework.xml
+C:\Users\Latitude\source\repos\ShopWebApi.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Latitude\source\repos\ShopWebApi.Data\obj\Debug\ShopWebApi.Data.csproj.CopyComplete
+C:\Users\Latitude\source\repos\ShopWebApi.Data\obj\Debug\ShopWebApi.Data.dll
+C:\Users\Latitude\source\repos\ShopWebApi.Data\obj\Debug\ShopWebApi.Data.pdb
